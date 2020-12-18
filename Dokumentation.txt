@@ -1,0 +1,3 @@
+
+
+In der Funktion void challenge_init()  sollte hier alle global Interrupt desaktiviert.
